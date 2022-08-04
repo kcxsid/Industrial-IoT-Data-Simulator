@@ -37,18 +37,19 @@ data set close to real world.
 
 To simulate real world situation, a pattern for a defined configuration is created that
 enables Data simulator to generate the required data set.
-● Using the Data Simulator, one can generate data for multiple such equipment, each of
-them carrying many such parameters of different kinds.
-● The data simulator first acquires the relevant information that is stored in the database of
+- Using the Data Simulator, one can generate data for multiple such equipment, each of
+them carrying many such parameters of different kinds. 
+- The data simulator first acquires the relevant information that is stored in the database of
 each equipment and its parameters, their nature,configuration and even pattern of data
 generation.
-● It sorts the data based on the equipments and their parameters.
-● For each equipment that is read by the data simulator,data is generated depending on the
+- It sorts the data based on the equipments and their parameters.
+- For each equipment that is read by the data simulator,data is generated depending on the
 nature and the configuration of each parameter of the selected equipment.
-● This process is repeated for all equipments that are present in the database’s table.
-● Files consisting of the data of all parameters, are created( timestamp of occurrence, value
+- This process is repeated for all equipments that are present in the database’s table.
+- Files consisting of the data of all parameters, are created( timestamp of occurrence, value
 of data generated) in a certain folder, which is useful in the analysis of the equipment’s
 functioning and behaviour.
+
 
 
 Database Structure: 
