@@ -52,7 +52,15 @@ functioning and behaviour.
 
 
 
-Database Structure: 
+### Database Structure: 
 ![image](https://user-images.githubusercontent.com/31934083/182775139-707a8673-c690-46ef-8c44-97838a26ca5b.png)
 
+### Data Generation based on specifications: 
+<img width="908" alt="image" src="https://user-images.githubusercontent.com/31934083/183371036-5e558f48-7c99-461b-9044-74a39a767340.png">
+Analog data generation
 
+
+<img width="1070" alt="image" src="https://user-images.githubusercontent.com/31934083/183371184-3f1f9bfe-46c8-457a-82b6-39af79c5dbf0.png">
+Digital Data Generation
+
+In the case of digital data, 1 refers to equipment being in use, whereas 0 refers to the equipment not being functional. 
